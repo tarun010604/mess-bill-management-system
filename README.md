@@ -194,7 +194,7 @@ After successful payment, a confirmation email is automatically sent to the stud
 
 **Tarun M R**
 
-- LinkedIn: *(Add your LinkedIn URL)*
+- LinkedIn: www.linkedin.com/in/tarun-mr
 - GitHub: https://github.com/tarun010604
 
 ---
