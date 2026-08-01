@@ -1,0 +1,17 @@
+# Maven
+target/
+
+# Eclipse
+.settings/
+.metadata/
+
+# Logs
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS Files
+.DS_Store
+Thumbs.db
