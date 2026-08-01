@@ -81,7 +81,7 @@ git clone https://github.com/tarun010604/mess-bill-management-system.git
 
 ---
 
-## 📷 Screenshots
+
 
 ## 📷 Application Screenshots
 
