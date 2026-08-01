@@ -181,7 +181,7 @@ After successful payment, a confirmation email is automatically sent to the stud
 
 ## 🔮 Future Enhancements
 
-- Parent Login
+
 - Student Login
 - Online Payment Gateway Integration
 - SMS Notifications
