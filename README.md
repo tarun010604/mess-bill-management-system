@@ -83,7 +83,99 @@ git clone https://github.com/tarun010604/mess-bill-management-system.git
 
 ## 📷 Screenshots
 
-*(Add screenshots here after uploading them.)*
+## 📷 Application Screenshots
+
+### 🔐 Login Page
+
+![Login Page](screenshots/login-page.png)
+
+---
+
+### 🏠 Dashboard
+
+| Dashboard Overview | Dashboard Analytics |
+|---------------------|---------------------|
+| ![](screenshots/dashboard1.png) | ![](screenshots/dashboard2.png) |
+
+---
+
+### 👨‍🎓 Student Management
+
+| Add Student | View Students |
+|-------------|---------------|
+| ![](screenshots/add-student.png) | ![](screenshots/view-students.png) |
+
+---
+
+### 🍽️ Attendance Management
+
+![](screenshots/attendance.png)
+
+---
+
+### 💰 Bill Generation
+
+| Generate Bill | Bill History |
+|---------------|--------------|
+| ![](screenshots/generate-bill1.png) | ![](screenshots/generate-bill2.png) |
+
+---
+
+### 📧 Automatic Bill Email
+
+After bill generation, the system automatically sends an email to the student's registered email address.
+
+![](screenshots/Bill-Generation-Email.png)
+
+---
+
+### 📄 Bill History
+
+| History 1 | History 2 |
+|-----------|-----------|
+| ![](screenshots/bill-history1.png) | ![](screenshots/bill-history2.png) |
+
+---
+
+### 📋 View Bills
+
+| Bills 1 | Bills 2 |
+|----------|----------|
+| ![](screenshots/view-bills1.png) | ![](screenshots/view-bills2.png) |
+
+---
+
+### 💳 Payment Page
+
+Students can pay directly using the secure payment link received in the email.
+
+![](screenshots/payment-page.png)
+
+---
+
+### 💵 Payment Records
+
+![](screenshots/payments.png)
+
+---
+
+### ✅ Payment Success
+
+![](screenshots/Payment-success-page.png)
+
+---
+
+### 📧 Payment Confirmation Email
+
+After successful payment, a confirmation email is automatically sent to the student.
+
+![](screenshots/Payment-confirmation-email.png)
+
+---
+
+### 📊 Reports Dashboard
+
+![](screenshots/reports.png)
 
 ---
 
